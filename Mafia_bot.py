@@ -130,8 +130,8 @@ def quit(bot, update):
     
 id_list = {}
 room_list = {}
-bot = telegram.Bot(token='708915796:AAGIF52GUer37NoPI7NJEl1_GyDyZwfFaGw')
-updater = (Updater(token= '708915796:AAGIF52GUer37NoPI7NJEl1_GyDyZwfFaGw'))
+bot = telegram.Bot(token='1624907624:AAHe4LwnAC7sLbiyWQJq-5l6uq4BchytHe4')
+updater = (Updater(token= '1624907624:AAHe4LwnAC7sLbiyWQJq-5l6uq4BchytHe4'))
 dispatcher = updater.dispatcher
     
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
